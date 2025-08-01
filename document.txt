@@ -1,0 +1,6 @@
+after downloading the dataset 
+run the CNN model.py first (it make take some time 30-45min)
+after that you will get a trained model 
+in the formate of .h5
+then run the interface.py to use the model with opencv
+ 
